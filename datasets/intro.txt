@@ -1,0 +1,3 @@
+Hi this is kalyan,
+This is spark notes,
+Lets work on map and flatmap transformations
